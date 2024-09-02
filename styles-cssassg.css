@@ -1,0 +1,39 @@
+h1{
+    color: pink;
+    font-family:"calibr1", sans-serif;
+    color:chocolate
+}
+
+
+.p-green{
+    color:green;
+    font-family:"dancing script";
+}
+.p-blue{
+    color:blue;
+}
+
+#about-me{
+    color:purple;
+}
+
+#my-ig-link{
+font-size:50px;
+color: rgb(173, 64, 126);
+background-color:#dea731;
+border:2px;
+border-width: 2px;
+border-color:green;
+border-style:solid;
+margin: 20px 15px 10px 5px;
+padding: 50px 25px;
+border-radius: 20px;
+}
+
+.button-text{
+text-align: center;
+}
+#ig-logo{
+width: 100px;
+height: 100px;
+}
